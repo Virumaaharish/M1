@@ -1,10 +1,12 @@
-
-# NAME:S.DHAMINI
-## REGISTER NUMBER:212224040064
-
 # EX-01-Datatypes-Operators
+
+Name : M VIRUMAA HARISH 
+
+REG: 212223230246
+
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
+
 
 ## ALGORITHM:
 1.	Declare three character variables to store the input characters.
